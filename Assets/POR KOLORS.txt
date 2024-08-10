@@ -1,0 +1,45 @@
+hover, card - depende sa trip
+
+text, button - 255,255,255 or black
+
+background - 255,255,255
+
+left panel dashboard - wheat
+
+Saddle Brown
+RGB: (139, 69, 19)
+Usage: Background color for the main interface to create a warm and inviting atmosphere.
+
+Beige
+RGB: (245, 245, 220)
+Usage: Background color for text areas or input fields to ensure readability and a clean look.
+
+Cornsilk
+RGB: (255, 248, 220)
+Usage: Background color for cards or sections to highlight important information subtly.
+
+Forest Green
+RGB: (34, 139, 34)
+Usage: Accent color for buttons or icons to give a natural and calming effect.
+
+Dark Salmon
+RGB: (233, 150, 122)
+Usage: Hover color for buttons to provide a soft and appealing interaction effect.
+
+Gold
+RGB: (255, 215, 0)
+Usage: Highlight color for special offers or important notifications to grab attention.
+
+Dark Orange
+RGB: (255, 140, 0)
+Usage: Accent color for call-to-action buttons to add energy and positivity.
+
+Steel Blue
+RGB: (70, 130, 180)
+Usage: Background color for headers or footers to create a modern and sophisticated look.
+
+Slate Gray
+RGB: (112, 128, 144)
+Usage: Background color for side panels or menus to maintain a sleek and professional appearance.
+
+
